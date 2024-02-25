@@ -1,3 +1,6 @@
 [submodule "Asme2023"]
 	path = Asme2023
 	url = https://github.com/miniblueplay/Asme2023
+[submodule "Android/Asme2023"]
+	path = Android/Asme2023
+	url = https://github.com/miniblueplay/Asme2023
